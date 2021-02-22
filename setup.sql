@@ -1,0 +1,21 @@
+-- use datachase;
+-- CREATE TABLE cruises (
+--   id VARCHAR(255),
+--   price FLOAT,
+--   days INT NOT NULL,
+--   nights INT NOT NULL,
+--   destination VARCHAR(255),
+--   port VARCHAR(255),
+--   boat VARCHAR(255),
+--   PRIMARY KEY (id)
+-- );
+-- CREATE TABLE trips (
+--   id VARCHAR(255),
+--   price FLOAT,
+--   days INT NOT NULL,
+--   nights INT NOT NULL,
+--   destination VARCHAR(255),
+--   airport VARCHAR(255),
+--   hotel VARCHAR(255),
+--   PRIMARY KEY (id)
+-- );
